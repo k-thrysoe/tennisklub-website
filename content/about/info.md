@@ -11,6 +11,20 @@ contact_info:
 type: ''
 
 ---
-## This is made with [Forestry](https://forestry.io/ "Forestry.io") & [Hugo](https://gohugo.io/ "Hugo SSG").
+# Kontakt Guldbæk Tennisklub
 
-## To get started, import this site into Forestry or checkout the repository [here](https://github.com/kendallstrautman/starter-blog-hugo "forestry starter blog hugo").
+**Formand**
+
+Dorete Bager, 3025 5459
+
+[skodshoj10@gmail.com](mailto:skodshoj10@gmail.com)
+
+**Kasser**
+
+Klaus Haslund Larsen, 2893 2806
+
+[klaus@larsenweb.dk](mailto:klaus@larsenweb.dk)
+
+**Øvrige**
+
+Bjarne Uhrenholt, Nina Bengtsen, Marianne Østergaard, Mads Hougaard, Kim Thrysøe
