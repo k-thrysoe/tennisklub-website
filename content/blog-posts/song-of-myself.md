@@ -1,34 +1,15 @@
 ---
-title: Song of Myself
+title: Bliv medlem
 date: 2019-07-11T19:17:43.000+00:00
 type: blog
-hero: "/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
-author: Walt Whitman
+hero: "/images/ryan-searle-qjrjJnFypa0-unsplash.jpg"
+author: Guldbæk Tennisklub
 
 ---
-I have heard what the talkers were talking, the talk of the  
-beginning and the end
+Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis.
 
-But I do not talk of the beginning or the end. There was never any more inception than there is now, Nor any more youth or age than there is now, And will never be any more perfection than there is now,  
-Nor any more heaven or hell than there is now.
+Maecenas faucibus mollis interdum. Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam id dolor id nibh ultricies vehicula ut id elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed posuere consectetur est at lobortis. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 
-Urge and urge and urge, Always the procreant urge of the world.  
-Out of the dimness opposite equals advance, always substance and  
-increase, Always a knit of identity, always distinction, always a breed of life. To elaborate is no avail, learn'd and unlearn'd feel that it is  
-so.
+![](/images/ben-hershey-K9HgyI3qmqA-unsplash.jpg)
 
-Sure as the most certain sure, plumb in the uprights, well entretied, braced in the beams, Stout as a horse, affectionate, haughty, electrical, I and this mystery here we stand.
-
-Clear and sweet is my soul, and clear and sweet is all that is not my soul.
-
-![](/images/igor-son-FV_PxCqgtwc-unsplash.jpg)
-
-Lack one lacks both, and the unseen is proved by the seen,  
-Till that becomes unseen and receives proof in its turn.
-
-Showing the best and dividing it from the worst age vexes age,  
-Knowing the perfect fitness and equanimity of things, while they discuss I am silent, and go bathe and admire myself.
-
-Welcome is every organ and attribute of me, and of any man hearty and clean, Not an inch nor a particle of an inch is vile, and none shall be less familiar than the rest.
-
-I am satisfied—I see, dance, laugh, sing; As the hugging and loving bed-fellow sleeps at my side through the night, and withdraws at the peep of the day with stealthy tread. Leaving me baskets cover'd with white towels swelling the house with their plenty, Shall I postpone my acceptation and realization and scream at my eyes, That they turn from gazing after and down the road, And forthwith cipher and show me to a cent, Exactly the value of one and exactly the value of two, and which is ahead?
+Etiam porta sem malesuada magna mollis euismod. Sed posuere consectetur est at lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Etiam porta sem malesuada magna mollis euismod. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
