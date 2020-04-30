@@ -8,7 +8,7 @@ contact_info:
   email: ''
 type: ''
 ---
-# Kontakt Guldbæk Tennisklub
+# Guldbæk Tennisklub
 
 **Formand**
 
