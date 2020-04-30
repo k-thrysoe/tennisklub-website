@@ -1,6 +1,6 @@
 ---
 title: Om Guldbæk Tennisklub
-date: 2020-04-29T22:00:00+00:00
+date: 2020-04-28T22:00:00+00:00
 type: blog
 hero: "/images/shoiab-ahmed-K2VEQgIrfYQ-unsplash.jpg"
 author: Guldbæk Tennisklub
