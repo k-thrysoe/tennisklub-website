@@ -1,5 +1,5 @@
 ---
-title: Om foreningen
+title: Om Guldbæk Tennisklub
 date: 
 type: blog
 hero: "/images/shoiab-ahmed-K2VEQgIrfYQ-unsplash.jpg"
