@@ -1,3 +1,3 @@
-<h1 align="center">
-  Guldbæk Tennisklub website baseret på template "Brevifolia"
-</h1>
+# Guldbæk Tennisklub website baseret på template "Brevifolia"
+
+CMS er https://app.forestry.io/
