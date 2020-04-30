@@ -20,7 +20,3 @@ Dorete Bager, 3025 5459
 Klaus Haslund Larsen, 2893 2806
 
 [klaus@larsenweb.dk](mailto:klaus@larsenweb.dk)
-
-**Øvrige**
-
-Bjarne Uhrenholt, Nina Bengtsen, Marianne Østergaard, Mads Hougaard, Kim Thrysøe
