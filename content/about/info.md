@@ -7,9 +7,8 @@ contact_info:
   github_handle: ''
   email: ''
 type: ''
----
-# Guldbæk Tennisklub
 
+---
 **Formand**
 
 Dorete Bager, 3025 5459
