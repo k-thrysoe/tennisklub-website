@@ -25,4 +25,4 @@ Klaus Haslund Larsen, 2893 2806
 
 Tennisbanen er placeret mellem vinmarkerne på Ærtebjergvej. Indkørsel fra ærtebjergvej mellem [Guldbæk Vingård](http://guldbækvingård.dk "Guldbæk Vingård") og byskiltet.
 
-[Koordinater](https://goo.gl/maps/NsQj2he6vus9KVHS8 "Koordinater") 
+[Koordinater 56°56'14.1"N 9°48'41.4"E](https://goo.gl/maps/NsQj2he6vus9KVHS8 "Koordinater") 
