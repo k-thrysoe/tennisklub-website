@@ -21,8 +21,8 @@ Klaus Haslund Larsen, 2893 2806
 
 [klaus@larsenweb.dk](mailto:klaus@larsenweb.dk)
 
-**Banens adresse** 
+**Banens adresse**
 
 Tennisbanen er placeret mellem vinmarkerne på Ærtebjergvej. Indkørsel fra ærtebjergvej mellem [Guldbæk Vingård](http://guldbækvingård.dk "Guldbæk Bingård") og byskiltet.
 
-[56°56'14.1"N 9°48'41.4"E]()
+[56°56'14.1"N 9°48'41.4"E](https://goo.gl/maps/NsQj2he6vus9KVHS8 (56°56'14.1"N 9°48'41.4"E))
