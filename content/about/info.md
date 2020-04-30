@@ -6,7 +6,7 @@ contact_info:
   twitter_handle: ''
   github_handle: ''
   email: ''
-type: ''
+type: 'about'
 
 ---
 # Kontakt Guldbæk Tennisklub
