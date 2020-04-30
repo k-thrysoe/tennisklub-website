@@ -6,7 +6,6 @@ hero: "/images/shoiab-ahmed-K2VEQgIrfYQ-unsplash.jpg"
 author: Guldbæk Tennisklub
 
 ---
-  
 Guldbæk Tennisklub er en klub med snart 40 års jubilæum. Banen ligger på Ærtebjergvej i Guldbæk og har den smukkest beliggende bane, man kan tænke sig samt omgivet af træer, som stort set altid giver læ.
 
 Vi har et lille “hus” med mulighed for at sidde under halvtag og nyde spillet eller slutte af med lidt på grillen. Samtidig har vi fået en sandkasse så de yngste er underholdt mens mor og far får lidt motion.
@@ -30,3 +29,7 @@ Dorete Bager, 3025 5459
 Klaus Haslund Larsen, 2893 2806
 
 [klaus@larsenweb.dk](mailto:klaus@larsenweb.dk)
+
+**Øvrige**
+
+Bjarne Uhrenholt, Nina Bengtsen, Marianne Østergaard, Mads Hougaard, Kim Thrysøe
