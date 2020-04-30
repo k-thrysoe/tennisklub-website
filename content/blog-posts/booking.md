@@ -6,7 +6,7 @@ author: Guldbæk Tennisklub
 hero: "/images/kelly-sikkema-WRByZhruW6o-unsplash-1.jpg"
 
 ---
-## For booking klik her
+Hvis du vil sikre dig at have banen når du vil spille kan do booke online via følgende link. 
 
 [https://www.supersaas.dk/schedule/GuldbaekTennis/Booking_af_bane](https://www.supersaas.dk/schedule/GuldbaekTennis/Booking_af_bane "https://www.supersaas.dk/schedule/GuldbaekTennis/Booking_af_bane")
 
