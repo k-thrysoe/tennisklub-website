@@ -30,6 +30,3 @@ fields:
 - type: file
   name: hero
   label: Hero Image
-pages:
-- content/blog-posts/Walking.md
-- content/blog-posts/sunflower-sutra.md
