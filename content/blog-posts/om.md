@@ -1,6 +1,6 @@
 ---
 title: Om Guldbæk Tennisklub
-date: 2020-04-28T22:00:00+00:00
+date: 2020-04-28T22:00:00.000+00:00
 type: blog
 hero: "/images/shoiab-ahmed-K2VEQgIrfYQ-unsplash.jpg"
 author: Guldbæk Tennisklub
@@ -32,4 +32,4 @@ Klaus Haslund Larsen, 2893 2806
 
 **Øvrige**
 
-Bjarne Uhrenholt, Nina Bengtsen, Marianne Østergaard, Mads Hougaard, Kim Thrysøe
+Nina Bengtsen, Carsten Frederiksen, Marianne Østergaard, Mads Hougaard, Kim Thrysøe, Ernst Hansen (revisor)
