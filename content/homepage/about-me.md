@@ -1,5 +1,5 @@
 ---
-title: "Om Klubben"
+title: "Om"
 weight: 3
 header_menu: true
 ---
