@@ -3,7 +3,7 @@ title: Bliv medlem
 date: 2019-07-11T19:17:43.000+00:00
 type: blog
 author: Guldbæk Tennisklub
-weight: 2
+weight: 4
 header_menu: true
 
 ---
