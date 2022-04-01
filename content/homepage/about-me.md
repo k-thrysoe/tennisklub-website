@@ -1,6 +1,6 @@
 ---
 title: "Om"
-weight: 3
+weight: 4
 header_menu: true
 ---
 
@@ -16,6 +16,8 @@ Kom og hver med: tag et par prøvetimer uden betaling.
 
 ### Bestyrelse
 Formand : Dorete Bager
+
 Kasser : Klaus Haslund Larsen
+
 Øvrige : Nina Bengtsen, Carsten Frederiksen, Marianne Østergaard, Mads Hougaard, Kim Thrysøe, Ernst Hansen (revisor)
 
