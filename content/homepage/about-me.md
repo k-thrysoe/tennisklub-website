@@ -19,5 +19,5 @@ Formand : Dorete Bager
 
 Kasser : Klaus Haslund Larsen
 
-Øvrige : Nina Bengtsen, Carsten Frederiksen, Marianne Østergaard, Mads Hougaard, Kim Thrysøe, Ernst Hansen (revisor)
+Øvrige : Carsten Frederiksen, Marianne Østergaard, Mads Hougaard, Kim Thrysøe, Ernst Hansen (revisor)
 
