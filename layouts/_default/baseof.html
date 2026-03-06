@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  {{- partial "head.html" . -}}
+  <body>
+    {{- partial "header.html" . -}}
+    {{- block "main" . }}{{- end }}
+    {{- partial "footer.html" . -}}
+
+    <script type="text/javascript" src='{{ "js/jquery-1.11.3.min.js" | relURL }}'></script>
+    <script type="text/javascript" src='{{ "js/icons.js" | relURL }}'></script>
+    <script type="text/javascript" src='{{ "js/index.js" | relURL }}'></script>
+    {{- partial "custom_body.html" . -}}
+  </body>
+</html>
