@@ -1,1 +1,15 @@
+# Hugo output
 public/
+resources/_gen/
+.hugo_build.lock
+
+# Node / Netlify tooling
+node_modules/
+.netlify/
+
+# macOS
+.DS_Store
+
+# IDEs/editors
+.idea/
+.vscode/

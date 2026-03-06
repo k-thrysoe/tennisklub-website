@@ -1,0 +1,9 @@
+{
+  "name": "tennisklub-website",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Guldbaek Tennisklub Hugo site booking function dependencies",
+  "dependencies": {
+    "@netlify/blobs": "^10.0.7"
+  }
+}
