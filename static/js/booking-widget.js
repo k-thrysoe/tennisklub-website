@@ -58,7 +58,7 @@
     "        </select>" +
     "      </div>" +
     '      <div>' +
-    '        <label for="booking-name">Navn (vises offentligt)</label>' +
+    '        <label for="booking-name">Navn (vises i kalender)</label>' +
     '        <input id="booking-name" name="name" type="text" required maxlength="80" />' +
     "      </div>" +
     '      <div>' +

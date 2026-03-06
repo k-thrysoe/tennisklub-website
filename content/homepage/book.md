@@ -9,5 +9,3 @@ Hvis du vil sikre dig banen, kan du booke direkte her.
 <div id="booking-widget" class="booking-widget-root">
   <p>Booking-widget indlæses...</p>
 </div>
-
-<p><small>Bemærk: Dit navn vises offentligt i bookingoversigten for det valgte tidspunkt.</small></p>
