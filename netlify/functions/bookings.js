@@ -1,6 +1,4 @@
-const { getStore } = require("@netlify/blobs");
-
-const STORE = getStore({ name: "tennisklub-bookings" });
+const { connectLambda, getStore } = require("@netlify/blobs");
 const MAX_DURATION = 4;
 
 function json(statusCode, body) {
@@ -102,8 +100,8 @@ function publicBooking(entry) {
   };
 }
 
-async function getDayRecord(key, date) {
-  const record = await STORE.getWithMetadata(key, { type: "json" });
+async function getDayRecord(store, key, date) {
+  const record = await store.getWithMetadata(key, { type: "json" });
 
   if (!record) {
     return {
@@ -120,6 +118,9 @@ async function getDayRecord(key, date) {
 
 exports.handler = async function handler(event) {
   try {
+    connectLambda(event);
+    const store = getStore("tennisklub-bookings");
+
     if (event.httpMethod === "GET") {
       const date = event.queryStringParameters && event.queryStringParameters.date;
       if (!validateDate(date)) {
@@ -127,7 +128,7 @@ exports.handler = async function handler(event) {
       }
 
       const key = "bookings/" + date + ".json";
-      const dayRecord = await getDayRecord(key, date);
+      const dayRecord = await getDayRecord(store, key, date);
 
       return json(200, {
         timezone: "Europe/Copenhagen",
@@ -146,7 +147,7 @@ exports.handler = async function handler(event) {
       const key = "bookings/" + booking.date + ".json";
 
       for (let attempt = 0; attempt < 5; attempt += 1) {
-        const dayRecord = await getDayRecord(key, booking.date);
+        const dayRecord = await getDayRecord(store, key, booking.date);
         const day = dayRecord.day;
         const etag = dayRecord.etag;
 
@@ -170,7 +171,7 @@ exports.handler = async function handler(event) {
         };
 
         const writeOptions = etag ? { onlyIfMatch: etag } : {};
-        const result = await STORE.setJSON(key, nextDay, writeOptions);
+        const result = await store.setJSON(key, nextDay, writeOptions);
 
         if (!result || result.modified !== false) {
           return json(201, {
