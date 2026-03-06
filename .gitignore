@@ -1,1 +1,11 @@
+# Hugo output
 public/
+resources/_gen/
+.hugo_build.lock
+
+# macOS
+.DS_Store
+
+# IDEs/editors
+.idea/
+.vscode/
