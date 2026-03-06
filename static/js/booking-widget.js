@@ -198,7 +198,11 @@
       document.getElementById("booking-duration").value = "1";
       document.getElementById("booking-start").value = String(payload.startHour);
       dateInput.value = payload.date;
-      loadBookings(payload.date);
+      if (Array.isArray(data.bookings)) {
+        renderBookings(data.bookings);
+      } else {
+        loadBookings(payload.date);
+      }
     } catch (error) {
       setStatus(error.message || "Der skete en fejl.", "error");
     } finally {

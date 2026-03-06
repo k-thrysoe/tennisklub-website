@@ -119,7 +119,7 @@ async function getDayRecord(store, key, date) {
 exports.handler = async function handler(event) {
   try {
     connectLambda(event);
-    const store = getStore("tennisklub-bookings");
+    const store = getStore({ name: "tennisklub-bookings", consistency: "strong" });
 
     if (event.httpMethod === "GET") {
       const date = event.queryStringParameters && event.queryStringParameters.date;
